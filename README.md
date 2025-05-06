@@ -1,6 +1,6 @@
-Simulador de msquina de Galton
+Simulador de maquina de Galton
 
-Mediante la función caicas de genera el proceso de la simulación de la caida de forma aleatoria sobre 12 niveles.
+Mediante la función canicas de genera el proceso de la simulación de forma aleatoria sobre 12 niveles.
 Aunque el usuario puede decidir cuantas canicas y cuantos niveles desea lanzar.
 
 Los resultados se muestran edn una lista 
